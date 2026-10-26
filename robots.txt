@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Update the Sitemap line with the final domain when it is configured
+Sitemap: https://adverune.example.com/sitemap.xml
